@@ -70,10 +70,6 @@ It showcases the information, buttons, and links the user has inputted. You can 
    <br>
 
 
-# Demo
-
-https://github.com/Varchasva45/nextlink/assets/97362029/0c211968-3b24-4882-9de4-a3ab7c8dcf5d
-
 
 
 
