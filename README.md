@@ -30,31 +30,26 @@ Join NextLink today and take control of your digital presence!
    <br>
 
 ## 2. Login Page
-![image](https://github.com/Varchasva45/nextlink/assets/97362029/3fa6dfbe-2285-4731-bc89-aed981e777ce)
 
    <br>
 
 
 ## 3. Grab Username Page
-![image](https://github.com/Varchasva45/nextlink/assets/97362029/f333a80f-330c-4a50-a468-6fb8d53f256e)
 
    <br>
 
 
 ## 4. Personal Details Page
-  ![image](https://github.com/Varchasva45/nextlink/assets/97362029/490207b2-6213-4bad-aa70-aabffa37c102)
   
    <br>
 
 
 ## 5. Profile Buttons Page
-![image](https://github.com/Varchasva45/nextlink/assets/97362029/09d90a3d-3c87-4ada-98b7-393e171c6e58)
 
    <br>
 
 
 ## 6. Custom Links Page
-![image](https://github.com/Varchasva45/nextlink/assets/97362029/ce063a44-a00a-44f5-b33a-b5ae0444c3ed)
    
    <br>
 
@@ -66,16 +61,12 @@ Join NextLink today and take control of your digital presence!
  <br>
 
 ## 8. Link to your Display Web Page
-![image](https://github.com/Varchasva45/nextlink/assets/97362029/7a7447ad-d974-4bc0-b7c1-328449b899bb)
    
    <br>
 
 
 ## 9. Your display Web page 
 It showcases the information, buttons, and links the user has inputted. You can use this page on your social media profiles or in your resume to showcase the information you want.
-
-![image](https://github.com/Varchasva45/nextlink/assets/97362029/5af28f6f-47c5-4ce3-b372-6011f7ff9fab)
-   
    <br>
 
 
